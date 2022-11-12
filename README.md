@@ -11,10 +11,10 @@ Feel free to say hi!
 
 | Tool      | Experience |
 | ----------- | ----------- |
-| JavaScript & TypeScript     | 5 years       |
-| Java & Kotlin   | 2 years        |
-| Google Cloud & Firebase   | 3 years        |
-| Python   | 2 years        |
+| JavaScript & TypeScript     | 6 years       |
+| Java & Kotlin   | 3 years        |
+| Google Cloud & Firebase   | 4 years        |
+| Python   | 3 years        |
 | C#   | < 1 year        |
 | Git & Docker   | Working proficiency        |
 | Linux   | Working proficiency        |
