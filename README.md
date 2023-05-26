@@ -7,7 +7,9 @@ specialising in Web and Java-based projects with an interest in theoretical CS a
 
 On top of my university studies, I'm working at [Noxcrew](https://noxcrew.com) as a Web Developer with production-experience
 from my work on [MCC Live](https://mcc.live), the [MCC Island Newsletter Signup](https://mccsignup.noxcrew.com) and more. I have 
-also collaborated with YouTube, BTS and Måneskin on a [concert in Minecraft](https://www.youtube.com/watch?v=tv-0KMXKFp4).
+also collaborated with YouTube, BTS and Måneskin on a [concert in Minecraft](https://www.youtube.com/watch?v=tv-0KMXKFp4), 
+alongside Disney and The Muppets on an episode of 
+[The Muppets Mayhem](https://www.disneyplus.com/en-gb/series/the-muppets-mayhem/gd9MTUDboO90).
 
 I've also done voluntary development experience for several extra projects alongside Java and Show-development in 
 games such as Minecraft. In addition, my interest in new technologies has sparked an interest in building AI-driven 
