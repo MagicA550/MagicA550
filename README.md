@@ -3,7 +3,7 @@
 
 <br>
 
-## Hello! 👋 I'm Anthony, a Full-Stack Software Engineer at Noxcrew.
+## Hello! 👋 I'm Anthony, an Infrastructure Engineer at Spark Universe.
 
 🚀 With experience in top Minecraft development studios, I've worked across technology stacks on projects with Google, Disney, Microsoft, and Twitch.
 
