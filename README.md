@@ -7,7 +7,7 @@
 
 🚀 With experience in top Minecraft development studios, I've worked across technology stacks on projects with Google, Disney, Microsoft, and Twitch.
 
-🎓 Third-year MComp(hons) Computer Science student at The University of Bath, working across theoretical and practical disciplines.
+🎓 BSc(hons) Computer Science (First Class) graduate at The University of Bath, working across theoretical and practical disciplines.
 
 🛠️ Collaborated on open-source web, game, and AI development projects.
 
